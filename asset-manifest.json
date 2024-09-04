@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/formstreep/static/css/main.3e932f70.css",
+    "main.js": "/formstreep/static/js/main.9c04e6a4.js",
+    "static/js/453.bfcfd1eb.chunk.js": "/formstreep/static/js/453.bfcfd1eb.chunk.js",
+    "index.html": "/formstreep/index.html",
+    "main.3e932f70.css.map": "/formstreep/static/css/main.3e932f70.css.map",
+    "main.9c04e6a4.js.map": "/formstreep/static/js/main.9c04e6a4.js.map",
+    "453.bfcfd1eb.chunk.js.map": "/formstreep/static/js/453.bfcfd1eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e932f70.css",
+    "static/js/main.9c04e6a4.js"
+  ]
+}
