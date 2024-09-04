@@ -1,38 +1,23 @@
-.App {
-  text-align: center;
+/* style.css */
+
+input[type="date"]::-webkit-datetime-edit {
+    color: #374151;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+input[type="date"]::-webkit-calendar-picker-indicator {
+    color: #374151;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+input[type="date"]::-moz-placeholder {
+    color: #374151;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+input[type="date"]::-ms-placeholder {
+    color: #374151;
 }
 
-.App-link {
-  color: #61dafb;
+input[type="date"]::placeholder {
+    color: #374151;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
